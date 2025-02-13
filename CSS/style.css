@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif; /*Cambiar fuente*/
+    background-color: #7d1826;
+}
+.centro { /*Estilo para donde se muestra el centro en la pagina*/
+    padding: 22px 0 0 10px;
+    background-color: #e4d48a;
+}
