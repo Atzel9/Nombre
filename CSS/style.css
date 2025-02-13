@@ -2,7 +2,16 @@ body {
     font-family: sans-serif; /*Cambiar fuente*/
     background-color: #7d1826;
 }
+header {
+    color: #e4d48a; /*Cambiar el color a la fuente*/
+    background-color: #581845;
+}
+footer {
+    color: white;
+    background-color: black;
+}
 .centro { /*Estilo para donde se muestra el centro en la pagina*/
     padding: 22px 0 0 10px;
+    color: #e4d48a; /*Cambiar el color a la fuente*/
     background-color: #e4d48a;
 }
