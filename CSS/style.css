@@ -1,17 +1,24 @@
 body {
-    font-family: sans-serif; /*Cambiar fuente*/
+    font-family: Arial, sans-serif; /*Cambiar fuente*/
     background-color: #7d1826;
 }
 header {
+    text-align: center; /*Alinear el texto*/
     color: #e4d48a; /*Cambiar el color a la fuente*/
     background-color: #581845;
+    padding: 15px 0 15px; /*Hacer mas grande la cabecera*/
 }
 footer {
+    text-align: center; /*Centrar el texto*/
     color: white;
     background-color: black;
+    position: fixed; /*Bajar el footer hasta el inferior de la pagina*/
 }
 .centro { /*Estilo para donde se muestra el centro en la pagina*/
     padding: 22px 0 0 10px;
-    color: #e4d48a; /*Cambiar el color a la fuente*/
+    margin: 10px 8px 10px 8px;
     background-color: #e4d48a;
+}
+.cliclic {
+    cursor: pointer;
 }
